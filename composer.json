@@ -11,7 +11,7 @@
     ],
     "license": "MIT",
     "require": {
-        "doctrine/orm": ">=2.1,<2.4"
+        "doctrine/orm": ">=2.4"
     },
     "require-dev": {
         "doctrine/common": ">=2.1",
